@@ -1,0 +1,20 @@
+PODS:
+  - NLCoreData (0.5.3)
+  - NLCoreData-ObjectiveRecord (0.0.1):
+    - NLCoreData
+    - ObjectiveSugar
+  - ObjectiveSugar (1.1.0)
+
+DEPENDENCIES:
+  - NLCoreData-ObjectiveRecord (from `../NLCoreData-ObjectiveRecord.podspec`)
+
+EXTERNAL SOURCES:
+  NLCoreData-ObjectiveRecord:
+    :path: ../NLCoreData-ObjectiveRecord.podspec
+
+SPEC CHECKSUMS:
+  NLCoreData: bde75667607f7b66a08ef1d78d39b8bc5eed433f
+  NLCoreData-ObjectiveRecord: fe224c7bdc13bd3b22b265dcd8595a56c978f13f
+  ObjectiveSugar: fed588577bcf9733546aeaa089de444e4bab9a52
+
+COCOAPODS: 0.29.0
