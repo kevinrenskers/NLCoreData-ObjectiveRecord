@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "NLCoreData-ObjectiveRecord"
   s.version      = "0.0.1"
-  s.summary      = "Adds ObjectiveRecord like synxtax to NLCoreData"
+  s.summary      = "Adds ObjectiveRecord like syntax to NLCoreData"
   s.homepage     = "https://github.com/kevinrenskers/NLCoreData-ObjectiveRecord"
   s.license      = 'MIT'
   s.author       = { "Kevin Renskers" => "info@mixedcase.nl" }
