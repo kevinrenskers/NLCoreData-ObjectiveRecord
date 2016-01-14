@@ -1,4 +1,5 @@
 # NLCoreData-ObjectiveRecord
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Adding ObjectiveRecord syntax on top of NLCoreData.
 
